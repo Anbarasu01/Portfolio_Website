@@ -78,7 +78,7 @@ export default function Contact() {
                   <div>
                     <div className="text-sm text-foreground/50">Email</div>
                     <a href="mailto:hello@anbarasu.dev" className="text-lg hover:text-accent-primary transition-colors">
-                      hello@anbarasu.dev
+                      anbuarsau801@gmail.com
                     </a>
                   </div>
                 </div>
